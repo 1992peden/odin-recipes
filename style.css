@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Times New Roman', serif;
+    font-size: 80px;
+    text-align: center;
+}
+
+ul {
+    font-weight: 900;
+}
+
+#riceandbeans {
+    font-family: 'Arial';
+}
+
+#tofulemon {
+    font-family: 'Tahoma';
+    font-size: 30px;
+}
+
+#beansoup {
+    font-family: 'Verdana';
+    font-size: 26px;
+}
